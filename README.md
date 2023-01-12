@@ -1,1 +1,1 @@
-# ParibuHub_SmartContractPracticum
+# ParibuHub_SmartContract & Solidity Practicum
