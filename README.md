@@ -1,1 +1,1 @@
-# ParibuHub_SmartContract & Solidity Practicum
+Patika.dev practicum projects
