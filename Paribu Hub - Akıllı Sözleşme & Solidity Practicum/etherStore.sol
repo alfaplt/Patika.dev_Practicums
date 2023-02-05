@@ -19,3 +19,5 @@ contract EtherStore {
         balance -= amount;
     }
 }
+
+// https://app.patika.dev/alfaplt
